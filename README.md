@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# SQL Bootcamp 2021 & Advanced Queries
+# SQL Bootcamp 2024 & Advanced Queries
 
 <!-- omit in toc -->
 ## Description
